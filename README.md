@@ -1,2 +1,7 @@
-# Django-Blog
-Note: Remember to change the Environment Variables for email id and password according to your account for the forget password to work.
+The following code is just for the sake for practice purpose,
+Features wanting to be implemented:
+1. comment feature
+2. Liking option
+3. adding image posts
+
+for now these are all the features i want to work on. Any additions will be done accordingly 😅
